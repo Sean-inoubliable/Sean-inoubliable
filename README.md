@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 😉 Status
+目前在职，北京科蓝软件系统股份有限公司
+
+### 🌐 找到我
+- 个人博客：https://some-note.cn
