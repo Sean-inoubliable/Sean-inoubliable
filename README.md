@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 😉 Status
+## 😉 Status
 目前在职，北京科蓝软件系统股份有限公司
 
-### 🌐 找到我
-- 个人博客：https://some-note.cn
 
 ## **<span style="color:#ba211c">联系方式</span>**
 
 - 手机：13084750727
 - Email：inoubliable_s@163.com
 - QQ/微信号：893549160
-
 
 
 ## **<span style="color:#ba211c">个人信息</span>**
@@ -39,12 +36,8 @@ Here are some ideas to get you started:
 *  期望职位：Java开发工程师
 
 
-
-
 ## **<span style="color:#ba211c">工作经历</span>**
 
 * 在职时间：2019.4~至今
 * 公司名称：北京科蓝软件系统股份有限公司
 * 担任职位：Java开发工程师
-
-
