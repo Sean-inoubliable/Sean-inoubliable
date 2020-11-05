@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## **<span style="color:#ba211c">个人信息</span>**
 
-*  宋鑫磊 / 男 / 1995
+*  某不知名Java-CV开发工程师 / 男 / 1995
 *  本科 / 国家开放大学
 *  技术博客：[https://some-note.cn](https://some-note.cn)
 *  Github：[https://github.com/Sean-inoubliable](https://github.com/Sean-inoubliable)
