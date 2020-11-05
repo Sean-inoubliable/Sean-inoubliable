@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 😉 Status
-目前在职，北京科蓝软件系统股份有限公司
+在职
 
 
 ## **<span style="color:#ba211c">联系方式</span>**
