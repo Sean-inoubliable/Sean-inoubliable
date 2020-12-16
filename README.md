@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## 😉 Status
 在职
 
+- 简历地址： https://github.com/Sean-inoubliable/CV/blob/master/Java%E5%BC%80%E5%8F%91-%E5%AE%8B%E9%91%AB%E7%A3%8A-CV.pdf
+
 
 ## **<span style="color:#ba211c">联系方式</span>**
 
