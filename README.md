@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## **<span style="color:#ba211c">联系方式</span>**
 
-- 手机：13084750727
-- Email：inoubliable_s@163.com
-- QQ/微信号：893549160
+- mobile number ：13084750727
+- email ：inoubliable_s@163.com
+- WeChat ：Echo_0536
 
 
 ## **<span style="color:#ba211c">个人信息</span>**
